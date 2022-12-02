@@ -2,7 +2,7 @@
 title: "Olá Hugo!"
 description: "Um breve resumo de como conheci o Hugo."
 date: 2022-11-30T02:20:15-03:00
-draft: true
+draft: false
 
 tags: ["hugo", "aprendizado"]
 categories: ["Desenvolvimento"]

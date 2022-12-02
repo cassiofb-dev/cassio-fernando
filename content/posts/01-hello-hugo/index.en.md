@@ -2,7 +2,7 @@
 title: "Hello Hugo!"
 description: "A short post about how I found Hugo."
 date: 2022-11-30T02:20:15-03:00
-draft: true
+draft: false
 
 tags: ["hugo", "learning"]
 categories: ["Development"]
