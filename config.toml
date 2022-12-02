@@ -66,7 +66,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   description = "Welcome to my personal website. I share my hobbies here, hope you like it =)"
 
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["images/metaimage.png"]
 
   # Header config
   [params.header]
