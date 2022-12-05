@@ -8,6 +8,7 @@ resources:
   src: "featured-image.png"
 
 tags: ["minecraft", "java"]
+categories: ["Jogos"]
 ---
 
 Cássio aqui. Semana passada visitei a casa da minha vó e tentei jogar minecraft no pc de lá. Porém não era um dos melhores e eu sofri para jogar com mods. Então dei uma pesquisada e estou compartilhando oque eu aprendi.
