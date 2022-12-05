@@ -1,5 +1,5 @@
 ---
-title: "About this website"
+title: "About this Website"
 date: 2022-12-01T23:00:00-03:00
 draft: false
 description: "Info about this website and myself."
@@ -13,6 +13,9 @@ description: "Info about this website and myself."
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#certificates">Certificates</a> •
+  <a href="#experiences">Experiences</a> •
   <a href="#features">Features</a> •
   <a href="#usage">Usage</a> •
   <a href="#credits">Credits</a> •
@@ -22,6 +25,65 @@ description: "Info about this website and myself."
 ## About
 
 Hi, my name is Cássio Fernando. I'm a Fullstack developer based on Brazil, Rio de Janeiro. The goal of this website is to be my personal blog and portfolio.
+
+## Skills
+
+- C: Proficient
+- CPP: Intermediate
+- Java: Intermediate
+- Rust: Beginner
+- Python: Proficient
+  - Tensorflow
+  - Pytorch
+  - Pandas
+  - Fastapi
+  - Beautiful Soup 4
+- HTML: Proficient
+- CSS: Proficient
+  - SCSS
+  - SASS
+  - Bootstrap
+- JavaScript: Expert
+  - Jquery
+  - Typescript
+  - React
+    - Next
+    - Gatsby
+  - Angular
+  - Hugo (this website)
+  - Express
+  - NestJS
+  - TypeORM
+  - Mongoose
+  - Prisma
+  - Knex.js
+  - Jest
+- SQL: Intermediate
+  - MySQL
+  - SQLite
+  - PostgreSQL
+- MongoDB: Intermediate
+- Docker: Beginner
+- AWS: Beginner
+
+## Certificates
+
+- [Responsive Web Design](https://www.freecodecamp.org/certification/cassiofb-dev/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/cassiofb-dev/javascript-algorithms-and-data-structures)
+- [Front End Libraries](https://www.freecodecamp.org/certification/cassiofb-dev/javascript-algorithms-and-data-structures)
+- [Python](https://www.kaggle.com/learn/certification/cassiosouza/python)
+- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/cassiosouza/intro-to-machine-learning)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/cassiosouza/intermediate-machine-learning)
+- [Data Visualization](https://www.kaggle.com/learn/certification/cassiosouza/data-visualization)
+- [Pandas](https://www.kaggle.com/learn/certification/cassiosouza/pandas)
+
+## Experiences
+
+- Computer Science Bachelor (CEFET/RJ | 2018-Ongoing)
+- Computational Algorithms Project Monitor (CEFET/RJ | 2019-2020)
+- Discrete Mathematics Monitor (CEFET/RJ | 2020-2021)
+- Fullstack Developer (Bluemoon | 2021-2022)
+- Searching New Oportunities
 
 ## Features
 
