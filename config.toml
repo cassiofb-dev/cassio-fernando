@@ -478,7 +478,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "2mbTiodQMAYyUruv5jfUVdC1l7NpBZ120U3ze0PaQxM"
     bing = ""
     yandex = ""
     pinterest = ""
@@ -487,9 +487,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  Site SEO config
   [params.seo]
     # image URL
-    image = ""
+    image = "/card.png"
     # thumbnail URL
-    thumbnailUrl = ""
+    thumbnailUrl = "/card.png"
 
   #  Analytics config
   [params.analytics]
