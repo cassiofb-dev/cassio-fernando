@@ -7,7 +7,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["minecraft", "java"]
+tags: ["Minecraft", "Java"]
 categories: ["Games"]
 ---
 

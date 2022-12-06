@@ -7,7 +7,7 @@ resources:
 - name: "featured-image"
   src: "featured-image.png"
 
-tags: ["genshin impact", "pokemon", "undertale", "chrono trigger"]
+tags: ["GenshinImpact", "PokemonRed", "Undertale", "ChronoTrigger"]
 categories: ["Games"]
 ---
 
