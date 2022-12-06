@@ -478,7 +478,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Site verification code config for Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = "google-site-verification=2mbTiodQMAYyUruv5jfUVdC1l7NpBZ120U3ze0PaQxM"
+    google = "LcggzcLLiqBQt4wfl2WCFgY8OfQqK_ZSKcyWT8Fk2lA"
     bing = ""
     yandex = ""
     pinterest = ""
