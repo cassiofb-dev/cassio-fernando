@@ -96,9 +96,13 @@ It's story with Morax is a happy one with a tragic end. Being a Elemental Being 
 
 #### Soundtrack 4/5
 
+{{< music netease song 39224659 >}}
+
 This battle theme is like the boss, surprising and unexpected. Though it doesn't have the super production and team from the previous themes discussed it's awesome anyway. You will sure will have a good time listening this song.
 
 #### Gameplay 5/5
+
+{{< youtube Vr4IYjeplJA >}}
 
 Undertale has a unique and magic gameplay, mixing RPG and bullet hell you won't have the same experience with the enemies on this game. Sans gameplay is at first surprising and intimidating, it doesn't matter how easily you beat the other bosses he will make it a player slaughterhouse. But it's amazing that even though it's really difficult with the time you will overcome it.
 
