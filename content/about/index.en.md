@@ -70,7 +70,7 @@ Hi, my name is Cássio Fernando. I'm a Fullstack developer based on Brazil, Rio 
 
 - [Responsive Web Design](https://www.freecodecamp.org/certification/cassiofb-dev/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/cassiofb-dev/javascript-algorithms-and-data-structures)
-- [Front End Libraries](https://www.freecodecamp.org/certification/cassiofb-dev/javascript-algorithms-and-data-structures)
+- [Front End Libraries](https://www.freecodecamp.org/certification/cassiofb-dev/front-end-libraries)
 - [Python](https://www.kaggle.com/learn/certification/cassiosouza/python)
 - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/cassiosouza/intro-to-machine-learning)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/cassiosouza/intermediate-machine-learning)
