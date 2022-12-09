@@ -175,7 +175,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  title shown in home page (HTML format is supported)
       title = "Cássio Fernando's Personal Website and Blog"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Hi! I'm a fullstack dev based in Brazil"
+      subtitle = "Hi! I'm a fullstack developer based in Brazil!"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -654,6 +654,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = ""
         url = "https://github.com/cassiofb-dev/cassio-fernando"
         title = "GitHub"
+      [[languages.en.menu.main]]
+        weight = 6
+        identifier = "cv"
+        pre = "<i class='fa-solid fa-briefcase' aria-hidden='true'></i>"
+        post = ""
+        name = ""
+        url = "../cv.en.pdf"
+        title = "Curriculum Vitae"
     [languages.en.params]
       [languages.en.params.home]
         #  amount of RSS pages
@@ -668,7 +676,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           #  title shown in home page (HTML format is supported)
           title = "Cássio Fernando's Personal Website and Blog"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "Hi! I'm a fullstack dev based in Brazil"
+          subtitle = "Hi! I'm a fullstack developer based in Brazil!"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
@@ -725,6 +733,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = ""
         url = "https://github.com/cassiofb-dev/cassio-fernando"
         title = "GitHub"
+      [[languages.pt-br.menu.main]]
+        weight = 6
+        identifier = "cv"
+        pre = "<i class='fa-solid fa-briefcase' aria-hidden='true'></i>"
+        post = ""
+        name = ""
+        url = "../cv.pt-br.pdf"
+        title = "Curriculum Vitae"
     [languages.pt-br.params]
       [languages.pt-br.params.home]
         #  amount of RSS pages
@@ -739,7 +755,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           #  title shown in home page (HTML format is supported)
           title = "Website e Blog Pessoal de Cássio Fernando"
           # subtitle shown in home page (HTML format is supported)
-          subtitle = "Olá! Eu sou um desenvolvedor fullstack do Rio de Janeiro"
+          subtitle = "Olá! Eu sou um desenvolvedor fullstack do Rio de Janeiro!"
           # whether to use typeit animation for subtitle
           typeit = true
           # whether to show social links
