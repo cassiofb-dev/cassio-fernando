@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  server:
+    command: server
+    image: cassiofernando
+    volumes:
+      - '.:/cassiofernando'
+    ports:
+      - '1313:1313'
