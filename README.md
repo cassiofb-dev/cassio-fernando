@@ -8,6 +8,7 @@
   <a href="#about">About</a> •
   <a href="#features">Features</a> •
   <a href="#usage">Usage</a> •
+  <a href="#chatgpt">ChatGPT</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
@@ -38,6 +39,29 @@ cd cassio-fernando
 
 hugo server
 ```
+
+## [ChatGPT](https://chat.openai.com/chat)
+
+With the advent of this amazing AI, I'll generate blog post with it. The author will be ChatGPT itself, steps to train the model:
+
+1. Write a markdown code block with blog post about something
+2. At the start write this filling the empty fields:
+    ```md
+    ---
+    author: "ChatGPT"
+    authorLink: "https://openai.com/"
+
+    title: ""
+    description: ""
+
+    tags: [""]
+    categories: [""]
+
+    resources:
+    - name: "featured-image"
+      src: "featured-image.png"
+    ---
+    ```
 
 ## Credits
 
