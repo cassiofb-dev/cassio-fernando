@@ -2,9 +2,11 @@ version: '3.9'
 
 services:
   server:
-    command: server
-    image: cassiofernando
+    container_name: cassiofernando
+    image: alpine:latest
+    working_dir: /cassiofernando
+    command: sh ./docker-start.sh
     volumes:
-      - '.:/cassiofernando'
+      - './:/cassiofernando'
     ports:
       - '1313:1313'
