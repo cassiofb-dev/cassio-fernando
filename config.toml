@@ -1,7 +1,7 @@
 baseURL = "https://cassio-fernando.netlify.app/"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "FixIt"
 
 # website title
 title = "My New Hugo Site"
@@ -24,7 +24,7 @@ paginate = 12
 googleAnalytics = ""
 
 # copyright description used only for seo schema
-copyright = "Created by cassiofb-dev using hugo with LoveIt theme."
+copyright = "Created by cassiofb-dev using hugo with LoveIt (now FixIt) theme."
 
 # whether to use robots.txt
 enableRobotsTXT = true
@@ -92,7 +92,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     #  Custom content (HTML format is supported)
-    custom = 'Made with 🤎 on Hugo and LoveIt'
+    custom = 'Made with 🤎 on Hugo and <s>LoveIt</s> FixIt'
     #  whether to show Hugo and theme info
     hugo = false
     #  whether to show copyright info
